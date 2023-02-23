@@ -9,15 +9,12 @@
 # Informacion general
 ***
 
-:key: Este repositório contiene nuestro proyecto del modulo 3 de la promo C del BootCamp Data Analyst de Adalab.
-El proyecto tiene como objetivo dar respuesta a la solicitud de la empresa GoGreen Bikesharing (E.U.A), que se dedica al alquiler de bicicletas,  y desea saber cuáles son los aspectos más influyentes para los usuários a la hora de alquilar una bicicleta y la predición de número de alquileres para próximos años.
-Para el estudio, nos pasaran datos relativamente a la cantidad de bicis alquiladas por usuarios puntuales y clientes registrados, así como datos meteorológicos y dias festivos.
-Hemos procedido a la limpieza y tratamiento de los datos para posterior predicción de los factores más influyentes y futuros alquileres, utilizando las librerias más abajo indicadas (Instalaciones).
+:key: 
+Este repositorio contiene nuestro proyecto del modulo 3 de la promo C del BootCamp Data Analyst de Adalab.
+El proyecto tiene como objetivo dar respuesta a la solicitud de la empresa GoGreen Bikesharing (E.U.A), que se dedica al alquiler de bicicletas,  y desea saber cuáles son los aspectos más influyentes para los usuarios a la hora de alquilar una bicicleta y la predicción del número de alquileres para cada días en los próximos años.
+Para el estudio, nos pasaran datos relativos a la cantidad de bicis alquiladas por usuarios puntuales y clientes registrados, así como datos meteorológicos y dias festivos.
+Hemos procedido a la limpieza y tratamiento de los datos para realizar nuestro modelo de predicción de los factores más influyentes y futuros alquileres.
  
-Adjuntamos, en este orden,  el link para tablero canvas, basado en metodologias Agile y el link para la presentación final de proyecto: 
- - [canvas](https://github.com/orgs/Adalab/projects/165)
- - [presentación](https://drive.google.com/file/d/1gDOUVFm_JC9_ZLoA6NUxSA_S_89fKoxt/view?usp=sharing)
-
 
 ## Archivos   
 ***
