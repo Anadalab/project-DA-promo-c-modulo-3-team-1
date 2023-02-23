@@ -2,7 +2,7 @@
 ## Indice 	:loudspeaker:
 
 1. [Informacion general](#informacion-general)
-2. [ Archivos  ](#archivos)
+2. [Archivos](#archivos)
 3. [Instalaciones](#instalaciones)
 4. [Integrantes](#integrantes)
 
@@ -15,21 +15,30 @@ Para el estudio, nos pasaran datos relativamente a la cantidad de bicis alquilad
 Hemos procedido a la limpieza y tratamiento de los datos para posterior predicción de los factores más influyentes y futuros alquileres, utilizando las librerias más abajo indicadas (Instalaciones).
  
 Adjuntamos, en este orden,  el link para tablero canvas, basado en metodologias Agile y el link para la presentación final de proyecto: 
- - canvas: 
-https://github.com/orgs/Adalab/projects/165
- - presentación: 
-(https://drive.google.com/file/d/1gDOUVFm_JC9_ZLoA6NUxSA_S_89fKoxt/view?usp=sharing)
+ - [canvas](https://github.com/orgs/Adalab/projects/165)
+ - [presentación](https://drive.google.com/file/d/1gDOUVFm_JC9_ZLoA6NUxSA_S_89fKoxt/view?usp=sharing)
 
 
 ## Archivos   
 ***
 :round_pushpin:Los archivos está organizados como:
 
-	- datos: contiene el dataset original y los diferentes ficheros resultantes de las etapas de transformación hasta la predición de los dadtos.
 
-    	- code: contiene la exploración de los datos - EDA - y los codigos desarrollados a lo largo del proyecto organizaos por el estudio de las diferentes variables respuesta así como modelos de machine learning y prediciones.
-    
-    	- streamli: en esta carpeta se encuentran los códigos e imagenes para la presentación de la predición a través de streamlit
+- [datos](https://github.com/Anadalab/project-DA-promo-c-modulo-3-team-1/tree/main/datos) :open_file_folder: contiene el dataset original y los diferentes ficheros resultantes
+	
+de las etapas de transformación hasta la predición de los dadtos.
+
+
+- [code](https://github.com/Anadalab/project-DA-promo-c-modulo-3-team-1/tree/main/borrador) :open_file_folder: contiene la exploración de los datos - EDA - y los codigos desarrollados 
+	
+a lo largo del proyecto organizaos por el estudio de las diferentes variables respuesta 
+	
+así como modelos de machine learning y prediciones.
+
+
+- [streamli](https://github.com/Anadalab/project-DA-promo-c-modulo-3-team-1/tree/main/streamli) :open_file_folder: en esta carpeta se encuentran los códigos e imagenes 
+	
+para la presentación de la predición a través de streamlit
 
     
       
@@ -37,7 +46,7 @@ https://github.com/orgs/Adalab/projects/165
 ***
 
 :round_pushpin: Se necesitarán las librerias:
-```
+
 - datetime
 - os
 - numpy
@@ -55,12 +64,11 @@ https://github.com/orgs/Adalab/projects/165
 - sklearn /.processing /.model_selection /.ensemble /.metrics /.tree
 
 
-
 ## Integrantes 
 ***
 
-  + :woman: [Lola](https://github.com/Lolaru26)
-  + :woman: [Anahi](https://github.com/Animorales)
-  + :woman: [Silvia](https://github.com/silviagordon)
-  + :woman: [Marina](https://github.com/pinheiro02)
-  + :woman: [Ana](https://github.com/Anadalab)
+- :woman: [Lola](https://github.com/Lolaru26)
+- :woman: [Anahi](https://github.com/Animorales)
+- :woman: [Silvia](https://github.com/silviagordon)
+- :woman: [Marina](https://github.com/pinheiro02)
+- :woman: [Ana](https://github.com/Anadalab)
